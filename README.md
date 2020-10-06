@@ -14,7 +14,7 @@ public class Example
 {
     static Example()
     {
-        EditorFocusWatcher.OnFocused   += () => Debug.Log( "フォーカスした" );
+        EditorFocusWatcher.OnFocused   += () => Debug.Log( "フォーカスされた" );
         EditorFocusWatcher.OnUnfocused += () => Debug.Log( "フォーカスが外れた" );
     }
 }
