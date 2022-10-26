@@ -1,4 +1,4 @@
-# UniEditorFocusWatcher
+# Kogane Editor Focus Watcher
 
 エディタがフォーカスされた、フォーカスが外れた時に呼び出されるコールバック
 

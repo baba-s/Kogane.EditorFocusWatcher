@@ -1,5 +1,5 @@
 {
-    "name": "UniEditorFocusWatcher",
+    "name": "Kogane.EditorFocusWatcher",
     "references": [],
     "includePlatforms": [
         "Editor"
